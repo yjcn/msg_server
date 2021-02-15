@@ -13,7 +13,7 @@ CORPSECRET = os.environ['corpsecret']
 # 相关id设置 
 # corpid = 'xxx'  # 企业id
 # agentid = 'xxx'   # 应用id
-# corpsecret = 'xxx' # 应用secret
+# corpsecret = 'xxx' # 企业secret
 
 # 企业微信 api url
 MSG_URL = 'https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token={}'
